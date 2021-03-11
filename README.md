@@ -1,4 +1,4 @@
-## whiterabbit-wordpress 
+## whiterabbit-wordpress  - Installation Instructions
 
 #### Installing Docker In Amazon Linux 2
 
